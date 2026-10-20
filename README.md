@@ -1,6 +1,6 @@
 # Spoken-English Grammar Scoring
 
-Solution for the **SHL Hiring Assessment 2026** Kaggle competition: predict a grammar score (0–5) for short clips of spoken English.
+The task is to predict a grammar score (0–5) for short clips of spoken English.
 
 ## Overview
 
